@@ -87,7 +87,7 @@ onModalClose = () => {
 }
 
   render () {
-    const {images, loading, error, totalImages, modal} = this.state;
+    const {images, loading, totalImages, modal} = this.state;
     const showBtn = !loading && images.length !== totalImages;
    
     return (
