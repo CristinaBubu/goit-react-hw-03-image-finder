@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cristinabubu.github.io/goit-react-hw-03-image-finder/static/css/main.7acaea2f.css",
-    "main.js": "/cristinabubu.github.io/goit-react-hw-03-image-finder/static/js/main.07d3183d.js",
+    "main.css": "/cristinabubu.github.io/goit-react-hw-03-image-finder/static/css/main.66407191.css",
+    "main.js": "/cristinabubu.github.io/goit-react-hw-03-image-finder/static/js/main.bba955d7.js",
     "index.html": "/cristinabubu.github.io/goit-react-hw-03-image-finder/index.html",
-    "main.7acaea2f.css.map": "/cristinabubu.github.io/goit-react-hw-03-image-finder/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/cristinabubu.github.io/goit-react-hw-03-image-finder/static/js/main.07d3183d.js.map"
+    "main.66407191.css.map": "/cristinabubu.github.io/goit-react-hw-03-image-finder/static/css/main.66407191.css.map",
+    "main.bba955d7.js.map": "/cristinabubu.github.io/goit-react-hw-03-image-finder/static/js/main.bba955d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.66407191.css",
+    "static/js/main.bba955d7.js"
   ]
 }
