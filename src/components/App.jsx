@@ -8,8 +8,7 @@ import Loader from "./Loader/Loader";
 import Modal from "./Modal/Modal";
 
 export class App extends Component {
-
-  state = {
+state = {
     modal: {isOpen: false, largeImageURL: ''},
     images: [],
     totalImages: 0,
